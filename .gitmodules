@@ -1,0 +1,3 @@
+[submodule "ship-it-faster/themes/hugo-paper"]
+	path = ship-it-faster/themes/hugo-paper
+	url = https://github.com/nanxiaobei/hugo-paper.git
