@@ -16,7 +16,10 @@ jobs:
         run: sudo apt-get install -y hugo
 
       - name: Build Hugo Site
-        run: hugo
+        run: |
+          cd ship-it-faster
+          ls
+          hugo
 
       - name: Deploy to S3
         run: |
