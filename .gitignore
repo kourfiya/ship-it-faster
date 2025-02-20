@@ -1,0 +1,4 @@
+.terraform/
+terraform.tfstate*
+ship-it-faster/public/
+ship-it-faster/resources/
